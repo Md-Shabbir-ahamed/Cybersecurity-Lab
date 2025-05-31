@@ -121,6 +121,7 @@ This section focuses on actively observing, collecting, and analyzing security e
 ![Image_Alt](https://github.com/Md-Shabbir-ahamed/Cybersecurity-Lab/blob/d4a9d98fb7d9545dfdce7e7e8dfdefaf1b924b5b/unnamed%20(4).png)
 ![Image_Alt](https://github.com/Md-Shabbir-ahamed/Cybersecurity-Lab/blob/57407cdb4292cf04405f5c5d69cee9dae551295f/unnamed%20(6).png)
 ![Image_Alt](https://github.com/Md-Shabbir-ahamed/Cybersecurity-Lab/blob/44dccd00be6216926bf0400d23eec3964e758edf/unnamed%20(7).png)
+![Image_Alt](https://github.com/Md-Shabbir-ahamed/Cybersecurity-Lab/blob/48184dfa67b1ee7c70ec821314765237c5b010dc/unnamed%20(9).png)
 
 
 
